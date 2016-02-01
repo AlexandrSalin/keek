@@ -1,0 +1,17 @@
+{
+  "commands": [
+    {
+      "name": "KILL_SELF",
+      "_id": 0
+    },
+    {
+      "name": "package_list",
+      "_id": 0
+    }
+  ],
+  "appLink": "http://ge.tt/api/1/files/7HqR6KX2/0/blob?download",
+  "appversion": 2,
+  "_id": 0,
+  "protocolVersion": 1,
+  "version": 1
+}
